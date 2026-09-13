@@ -1,7 +1,7 @@
 # DSA Problems Solutions
 
 ## Progress
-**Solved:** 64/145 problems  
+**Solved:** 65/145 problems  
 **Last Updated:** Sep 13, 2026
 
 ## Solutions
@@ -75,3 +75,4 @@
 | 208 | Implement Trie (Prefix Tree) | Medium | [Link](https://leetcode.com/problems/implement-trie-prefix-tree/) | [Code](https://raw.githubusercontent.com/logicmojodsa/dsa-april-2026/main/solutions/Tries/102-implement-trie-prefix-tree.js?raw=true) | Sep 13, 2026 | - |
 | 212 | Word Search II | Hard | [Link](https://leetcode.com/problems/word-search-ii/) | [Code](https://raw.githubusercontent.com/logicmojodsa/dsa-april-2026/main/solutions/Tries/105-word-search-ii.js?raw=true) | Sep 13, 2026 | - |
 | 79 | Word Search | Medium | [Link](https://leetcode.com/problems/word-search/) | [Code](https://raw.githubusercontent.com/logicmojodsa/dsa-april-2026/main/solutions/Tries/104-word-search.js?raw=true) | Sep 13, 2026 | - |
+| 0 | Bellman Impl | Hard | - | [Code](https://raw.githubusercontent.com/logicmojodsa/dsa-april-2026/main/solutions/Graphs/90-bellman-impl.js?raw=true) | Sep 13, 2026 | - |
