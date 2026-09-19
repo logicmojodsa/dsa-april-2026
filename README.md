@@ -77,3 +77,4 @@
 | 79 | Word Search | Medium | [Link](https://leetcode.com/problems/word-search/) | [Code](https://raw.githubusercontent.com/logicmojodsa/dsa-april-2026/main/solutions/Tries/104-word-search.js?raw=true) | Sep 13, 2026 | - |
 | 0 | Bellman Impl | Hard | - | [Code](https://raw.githubusercontent.com/logicmojodsa/dsa-april-2026/main/solutions/Graphs/90-bellman-impl.js?raw=true) | Sep 13, 2026 | - |
 | 0 | Djikstras Imp | Hard | - | [Code](https://raw.githubusercontent.com/logicmojodsa/dsa-april-2026/main/solutions/Graphs/88-djikstras-imp.js?raw=true) | Sep 17, 2026 | - |
+| 743 | Network Delay Time | Medium | [Link](https://leetcode.com/problems/network-delay-time/) | [Code](https://raw.githubusercontent.com/logicmojodsa/dsa-april-2026/main/solutions/Graphs/89-network-delay-time.js?raw=true) | Sep 19, 2026 | - |
