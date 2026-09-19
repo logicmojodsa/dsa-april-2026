@@ -1,7 +1,7 @@
 # DSA Problems Solutions
 
 ## Progress
-**Solved:** 65/145 problems  
+**Solved:** 65/147 problems  
 **Last Updated:** Sep 19, 2026
 
 ## Solutions
@@ -79,3 +79,4 @@
 | 79 | Word Search | Medium | [Link](https://leetcode.com/problems/word-search/) | [Code](https://raw.githubusercontent.com/logicmojodsa/dsa-april-2026/main/solutions/Tries/104-word-search.js?raw=true) | Sep 13, 2026 | - |
 | 0 | Bellman Impl | Hard | - | [Code](https://raw.githubusercontent.com/logicmojodsa/dsa-april-2026/main/solutions/Graphs/90-bellman-impl.js?raw=true) | Sep 13, 2026 | - |
 | 0 | Djikstras Imp | Hard | - | [Code](https://raw.githubusercontent.com/logicmojodsa/dsa-april-2026/main/solutions/Graphs/88-djikstras-imp.js?raw=true) | Sep 17, 2026 | - |
+| 0 | Prims ( Minimum Spanning Tree) | Hard | - | [Code](https://raw.githubusercontent.com/logicmojodsa/dsa-april-2026/main/solutions/Graphs/98-prims-minimum-spanning-tree.js?raw=true) | Sep 19, 2026 | - |
