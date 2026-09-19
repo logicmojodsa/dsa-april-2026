@@ -80,3 +80,4 @@
 | 79 | Word Search | Medium | [Link](https://leetcode.com/problems/word-search/) | [Code](https://raw.githubusercontent.com/logicmojodsa/dsa-april-2026/main/solutions/Tries/104-word-search.js?raw=true) | Sep 13, 2026 | - |
 | 0 | Bellman Impl | Hard | - | [Code](https://raw.githubusercontent.com/logicmojodsa/dsa-april-2026/main/solutions/Graphs/90-bellman-impl.js?raw=true) | Sep 13, 2026 | - |
 | 0 | Djikstras Imp | Hard | - | [Code](https://raw.githubusercontent.com/logicmojodsa/dsa-april-2026/main/solutions/Graphs/88-djikstras-imp.js?raw=true) | Sep 17, 2026 | - |
+| 0 | FIB | Easy | - | [Code](https://raw.githubusercontent.com/logicmojodsa/dsa-april-2026/main/solutions/Dynamic%20Programming/106-fib.js?raw=true) | Sep 19, 2026 | - |
