@@ -82,3 +82,4 @@
 | 0 | Djikstras Imp | Hard | - | [Code](https://raw.githubusercontent.com/logicmojodsa/dsa-april-2026/main/solutions/Graphs/88-djikstras-imp.js?raw=true) | Sep 17, 2026 | - |
 | 0 | FIB | Easy | - | [Code](https://raw.githubusercontent.com/logicmojodsa/dsa-april-2026/main/solutions/Dynamic%20Programming/106-fib.js?raw=true) | Sep 19, 2026 | - |
 | 0 | KnapSack01 | Medium | - | [Code](https://raw.githubusercontent.com/logicmojodsa/dsa-april-2026/main/solutions/Dynamic%20Programming/119-knapsack01.js?raw=true) | Oct 10, 2026 | - |
+| 1143 | Longest Common Subsequence | Medium | [Link](https://leetcode.com/problems/longest-common-subsequence/) | [Code](https://raw.githubusercontent.com/logicmojodsa/dsa-april-2026/main/solutions/Dynamic%20Programming/127-longest-common-subsequence.js?raw=true) | Oct 10, 2026 | - |
