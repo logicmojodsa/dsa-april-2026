@@ -1,8 +1,8 @@
 # DSA Problems Solutions
 
 ## Progress
-**Solved:** 73/145 problems  
-**Last Updated:** Oct 10, 2026
+**Solved:** 74/145 problems  
+**Last Updated:** Oct 18, 2026
 
 ## Solutions
 
@@ -83,3 +83,4 @@
 | 0 | FIB | Easy | - | [Code](https://raw.githubusercontent.com/logicmojodsa/dsa-april-2026/main/solutions/Dynamic%20Programming/106-fib.js?raw=true) | Sep 19, 2026 | - |
 | 0 | KnapSack01 | Medium | - | [Code](https://raw.githubusercontent.com/logicmojodsa/dsa-april-2026/main/solutions/Dynamic%20Programming/119-knapsack01.js?raw=true) | Oct 10, 2026 | - |
 | 1143 | Longest Common Subsequence | Medium | [Link](https://leetcode.com/problems/longest-common-subsequence/) | [Code](https://raw.githubusercontent.com/logicmojodsa/dsa-april-2026/main/solutions/Dynamic%20Programming/127-longest-common-subsequence.js?raw=true) | Oct 10, 2026 | - |
+| 0 | KMP search | Hard | - | [Code](https://raw.githubusercontent.com/logicmojodsa/dsa-april-2026/main/solutions/String/144-kmp-search.js?raw=true) | Oct 18, 2026 | - |
